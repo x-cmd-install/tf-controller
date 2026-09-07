@@ -5,7 +5,7 @@ about:
   head: 9c26ec2
   archived: false
   latestVersion: "v0.16.5"
-  collectedAt: 2026-09-07T04:23:26Z
+  collectedAt: 2026-09-07T20:01:30Z
 timeline:
   created: 2021-12-21
   lastCommit: 2026-09-02
@@ -16,7 +16,7 @@ popularity:
   fork: 195
   release: 111
   contributor: 79
-  pullRequest: 1112
+  pullRequest: 1117
   issue: 718
 language:
   Go: 1223083
@@ -78,13 +78,13 @@ recent:
 total:
   release: 111
   mergedPR: 682
-  openPR: 24
+  openPR: 28
   closedIssue: 590
   openIssue: 128
   commit: 2078
 ---
 path: /home/runner/.x-repo/github.com/weaveworks/tf-controller
-collectedAt: 2026-09-07T04:23:29Z
+collectedAt: 2026-09-07T20:01:33Z
 loc:
   Go:
     code: 37266
@@ -284,7 +284,7 @@ checks:
       - 'Warn: Project is vulnerable to: GHSA-3f2q-6294-fmq5'
 ---
 eget:
-  collectedAt: 2026-09-07T04:23:30+00:00
+  collectedAt: 2026-09-07T20:01:34+00:00
   platform:
     darwin/arm64:
       name:  tfctl_Darwin_arm64.tar.gz

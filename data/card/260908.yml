@@ -5,7 +5,7 @@ about:
   head: 9c26ec2
   archived: false
   latestVersion: "v0.16.5"
-  collectedAt: 2026-09-08T01:38:08Z
+  collectedAt: 2026-09-08T04:24:21Z
 timeline:
   created: 2021-12-21
   lastCommit: 2026-09-02
@@ -84,7 +84,7 @@ total:
   commit: 2078
 ---
 path: /home/runner/.x-repo/github.com/weaveworks/tf-controller
-collectedAt: 2026-09-08T01:38:11Z
+collectedAt: 2026-09-08T04:24:24Z
 loc:
   Go:
     code: 37266

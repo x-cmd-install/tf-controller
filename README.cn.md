@@ -4,7 +4,7 @@
 
 A GitOps OpenTofu and Terraform controller for Flux
 
-![tf-controller](https://repo.x-cmd.io/tf-controller.svg)
+![tf-controller](https://repo.x-cmd.io/tf-controller.svg?lang=zh)
 
 ## 安装
 
@@ -23,7 +23,25 @@ x install tf-controller
 - **最新版本**: `v0.16.5` (2026-08-06)
 - **最近提交**: 2026-09-02
 - **Release 含资产**: 14 个
-- **发布时间**: 2026-08-06T14:44:07Z
+
+## Release 资产
+
+| 资产 | 大小 | 目标平台 |
+|------|-----:|----------|
+| [tfctl_Darwin_amd64.tar.gz](https://github.com/weaveworks/tf-controller/releases/download/v0.16.5/tfctl_Darwin_amd64.tar.gz) | 13.9 MiB | `native/darwin/x64` |
+| [tfctl_Darwin_arm64.tar.gz](https://github.com/weaveworks/tf-controller/releases/download/v0.16.5/tfctl_Darwin_arm64.tar.gz) | 12.7 MiB | `native/darwin/arm64` |
+| [tfctl_Linux_amd64.tar.gz](https://github.com/weaveworks/tf-controller/releases/download/v0.16.5/tfctl_Linux_amd64.tar.gz) | 13.7 MiB | `native/linux/x64` |
+| [tfctl_Linux_arm64.tar.gz](https://github.com/weaveworks/tf-controller/releases/download/v0.16.5/tfctl_Linux_arm64.tar.gz) | 12.2 MiB | `native/linux/arm64` |
+| [tfctl_Linux_armv6.tar.gz](https://github.com/weaveworks/tf-controller/releases/download/v0.16.5/tfctl_Linux_armv6.tar.gz) | 12.9 MiB | `native/linux/arm` |
+| [tfctl_Linux_armv7.tar.gz](https://github.com/weaveworks/tf-controller/releases/download/v0.16.5/tfctl_Linux_armv7.tar.gz) | 12.9 MiB | `native/linux/arm` |
+| [tofu-controller.crds.yaml](https://github.com/weaveworks/tf-controller/releases/download/v0.16.5/tofu-controller.crds.yaml) | 755.8 KiB | `other` |
+| [tofu-controller.deployment.yaml](https://github.com/weaveworks/tf-controller/releases/download/v0.16.5/tofu-controller.deployment.yaml) | 2.1 KiB | `other` |
+| [tofu-controller.packages.yaml](https://github.com/weaveworks/tf-controller/releases/download/v0.16.5/tofu-controller.packages.yaml) | 226 B | `other` |
+| [tofu-controller.rbac.yaml](https://github.com/weaveworks/tf-controller/releases/download/v0.16.5/tofu-controller.rbac.yaml) | 3.2 KiB | `other` |
+| [tofu-controller_0.16.5_checksums.txt](https://github.com/weaveworks/tf-controller/releases/download/v0.16.5/tofu-controller_0.16.5_checksums.txt) | 1.1 KiB | `other` |
+| [tofu-controller_0.16.5_checksums.txt.sigstore.json](https://github.com/weaveworks/tf-controller/releases/download/v0.16.5/tofu-controller_0.16.5_checksums.txt.sigstore.json) | 10.3 KiB | `other` |
+| [tofu-controller_0.16.5_sbom.spdx.json](https://github.com/weaveworks/tf-controller/releases/download/v0.16.5/tofu-controller_0.16.5_sbom.spdx.json) | 1.0 MiB | `other` |
+| [tofu-controller_0.16.5_source_code.tar.gz](https://github.com/weaveworks/tf-controller/releases/download/v0.16.5/tofu-controller_0.16.5_source_code.tar.gz) | 1.7 MiB | `native/unknown` |
 
 ## 流行度
 
@@ -71,4 +89,4 @@ tf-controller 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/ins
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/260910.yml` · 2026-09-10T04:28:39Z._
+_数据快照: `data/card/260910.yml` · 2026-09-10T16:03:37Z._

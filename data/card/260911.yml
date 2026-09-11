@@ -7,7 +7,7 @@ about:
   latestVersion: "v0.16.5"
   latestRelease: "v0.16.5"
   latestPrerelease: "v0.16.0-rc.8"
-  collectedAt: 2026-09-11T04:26:44Z
+  collectedAt: 2026-09-11T20:38:20Z
 timeline:
   created: 2021-12-21
   lastCommit: 2026-09-02
@@ -15,13 +15,13 @@ timeline:
   lastRelease: 2026-08-06
   lastPrerelease: 2026-01-16
 popularity:
-  star: 1689
+  star: 1690
   watcher: 39
   fork: 195
   release: 111
   contributor: 79
   pullRequest: 1117
-  issue: 718
+  issue: 719
 language:
   Go: 1223083
   Shell: 21097
@@ -84,11 +84,11 @@ total:
   mergedPR: 682
   openPR: 28
   closedIssue: 590
-  openIssue: 128
+  openIssue: 129
   commit: 2078
 ---
 path: /home/runner/.x-repo/github.com/weaveworks/tf-controller
-collectedAt: 2026-09-11T04:26:49Z
+collectedAt: 2026-09-11T20:38:26Z
 loc:
   Go:
     code: 37266

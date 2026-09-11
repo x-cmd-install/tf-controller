@@ -47,11 +47,11 @@ x install tf-controller
 
 ## 流行度
 
-- **Star**: 1,689 · **Fork**: 195 · **开放 issue**: 718 · **贡献者**: 79
+- **Star**: 1,690 · **Fork**: 195 · **开放 issue**: 719 · **贡献者**: 79
 
 ## 累计统计
 
-- **发布数**: 111 · **已合并 PR**: 682 · **开放 PR**: 28 · **已关闭 issue**: 590 · **开放 issue**: 128 · **提交数**: 2078
+- **发布数**: 111 · **已合并 PR**: 682 · **开放 PR**: 28 · **已关闭 issue**: 590 · **开放 issue**: 129 · **提交数**: 2078
 
 ## 最近活动
 
@@ -92,4 +92,4 @@ tf-controller 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/ins
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/260911.yml` · 2026-09-11T04:26:56Z._
+_数据快照: `data/card/260911.yml` · 2026-09-11T20:38:40Z._

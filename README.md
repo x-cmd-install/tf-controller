@@ -14,12 +14,12 @@ x install tf-controller
 
 ## Code insight
 
-Total: **65,740** lines of code across **309** files in the top 5 languages.
+Total: **66,182** lines of code across **315** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Go | 37,864 | 2,439 | 5,685 | 226 |
-| Yaml | 26,704 | 130 | 132 | 76 |
+| Go | 38,277 | 2,518 | 5,762 | 231 |
+| Yaml | 26,733 | 133 | 132 | 77 |
 | Sh | 340 | 91 | 105 | 5 |
 | Protobuf | 276 | 0 | 70 | 1 |
 | Makefile | 233 | 33 | 58 | 1 |
@@ -41,47 +41,47 @@ Lowest-scoring checks:
 
 ## Release
 
-- **Latest**: `v0.16.5` (2026-08-06)
-- **Last commit**: 2026-10-23
+- **Latest**: `v0.16.6` (2026-10-26)
+- **Last commit**: 2026-10-26
 - **Assets in release**: 14
 
 ## Popularity
 
-- **Stars**: 1,718 · **Forks**: 200 · **Open issues**: 720 · **Contributors**: 81
+- **Stars**: 1,719 · **Forks**: 201 · **Open issues**: 720 · **Contributors**: 82
 
 ## Totals (cumulative)
 
-- **Releases**: 111 · **Merged PRs**: 688 · **Open PRs**: 29 · **Closed issues**: 591 · **Open issues**: 129 · **Commits**: 2084
+- **Releases**: 112 · **Merged PRs**: 692 · **Open PRs**: 31 · **Closed issues**: 591 · **Open issues**: 129 · **Commits**: 2088
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-26 | 0 | 0 | 0 | 0 | 0 | 0 |
-| last60d | 2026-08-27 | 0 | 0 | 0 | 0 | 0 | 0 |
-| 90d | 2026-07-28 | 1 | 0 | 0 | 0 | 0 | 0 |
-| last180d | 2026-04-29 | 3 | 0 | 0 | 0 | 0 | 0 |
-| 360d | 2025-10-31 | 9 | 0 | 0 | 0 | 0 | 0 |
-| last720d | 2024-11-05 | 10 | 0 | 0 | 0 | 0 | 0 |
+| 30d | 2026-09-27 | 1 | 0 | 0 | 0 | 0 | 0 |
+| last60d | 2026-08-28 | 1 | 0 | 0 | 0 | 0 | 0 |
+| 90d | 2026-07-29 | 2 | 0 | 0 | 0 | 0 | 0 |
+| last180d | 2026-04-30 | 4 | 0 | 0 | 0 | 0 | 0 |
+| 360d | 2025-11-01 | 10 | 0 | 0 | 0 | 0 | 0 |
+| last720d | 2024-11-06 | 11 | 0 | 0 | 0 | 0 | 0 |
 
 ## Release assets
 
 | Asset | Size | Target |
 |-------|-----:|--------|
-| [tfctl_Darwin_amd64.tar.gz](https://github.com/weaveworks/tf-controller/releases/download/v0.16.5/tfctl_Darwin_amd64.tar.gz) | 13.9 MiB | `native/darwin/x64` |
-| [tfctl_Darwin_arm64.tar.gz](https://github.com/weaveworks/tf-controller/releases/download/v0.16.5/tfctl_Darwin_arm64.tar.gz) | 12.7 MiB | `native/darwin/arm64` |
-| [tfctl_Linux_amd64.tar.gz](https://github.com/weaveworks/tf-controller/releases/download/v0.16.5/tfctl_Linux_amd64.tar.gz) | 13.7 MiB | `native/linux/x64` |
-| [tfctl_Linux_arm64.tar.gz](https://github.com/weaveworks/tf-controller/releases/download/v0.16.5/tfctl_Linux_arm64.tar.gz) | 12.2 MiB | `native/linux/arm64` |
-| [tfctl_Linux_armv6.tar.gz](https://github.com/weaveworks/tf-controller/releases/download/v0.16.5/tfctl_Linux_armv6.tar.gz) | 12.9 MiB | `native/linux/arm` |
-| [tfctl_Linux_armv7.tar.gz](https://github.com/weaveworks/tf-controller/releases/download/v0.16.5/tfctl_Linux_armv7.tar.gz) | 12.9 MiB | `native/linux/arm` |
-| [tofu-controller.crds.yaml](https://github.com/weaveworks/tf-controller/releases/download/v0.16.5/tofu-controller.crds.yaml) | 755.8 KiB | `other` |
-| [tofu-controller.deployment.yaml](https://github.com/weaveworks/tf-controller/releases/download/v0.16.5/tofu-controller.deployment.yaml) | 2.1 KiB | `other` |
-| [tofu-controller.packages.yaml](https://github.com/weaveworks/tf-controller/releases/download/v0.16.5/tofu-controller.packages.yaml) | 226 B | `other` |
-| [tofu-controller.rbac.yaml](https://github.com/weaveworks/tf-controller/releases/download/v0.16.5/tofu-controller.rbac.yaml) | 3.2 KiB | `other` |
-| [tofu-controller_0.16.5_checksums.txt](https://github.com/weaveworks/tf-controller/releases/download/v0.16.5/tofu-controller_0.16.5_checksums.txt) | 1.1 KiB | `other` |
-| [tofu-controller_0.16.5_checksums.txt.sigstore.json](https://github.com/weaveworks/tf-controller/releases/download/v0.16.5/tofu-controller_0.16.5_checksums.txt.sigstore.json) | 10.3 KiB | `other` |
-| [tofu-controller_0.16.5_sbom.spdx.json](https://github.com/weaveworks/tf-controller/releases/download/v0.16.5/tofu-controller_0.16.5_sbom.spdx.json) | 1.0 MiB | `other` |
-| [tofu-controller_0.16.5_source_code.tar.gz](https://github.com/weaveworks/tf-controller/releases/download/v0.16.5/tofu-controller_0.16.5_source_code.tar.gz) | 1.7 MiB | `native/unknown` |
+| [tfctl_Darwin_amd64.tar.gz](https://github.com/weaveworks/tf-controller/releases/download/v0.16.6/tfctl_Darwin_amd64.tar.gz) | 14.4 MiB | `native/darwin/x64` |
+| [tfctl_Darwin_arm64.tar.gz](https://github.com/weaveworks/tf-controller/releases/download/v0.16.6/tfctl_Darwin_arm64.tar.gz) | 13.1 MiB | `native/darwin/arm64` |
+| [tfctl_Linux_amd64.tar.gz](https://github.com/weaveworks/tf-controller/releases/download/v0.16.6/tfctl_Linux_amd64.tar.gz) | 14.2 MiB | `native/linux/x64` |
+| [tfctl_Linux_arm64.tar.gz](https://github.com/weaveworks/tf-controller/releases/download/v0.16.6/tfctl_Linux_arm64.tar.gz) | 12.5 MiB | `native/linux/arm64` |
+| [tfctl_Linux_armv6.tar.gz](https://github.com/weaveworks/tf-controller/releases/download/v0.16.6/tfctl_Linux_armv6.tar.gz) | 13.4 MiB | `native/linux/arm` |
+| [tfctl_Linux_armv7.tar.gz](https://github.com/weaveworks/tf-controller/releases/download/v0.16.6/tfctl_Linux_armv7.tar.gz) | 13.4 MiB | `native/linux/arm` |
+| [tofu-controller.crds.yaml](https://github.com/weaveworks/tf-controller/releases/download/v0.16.6/tofu-controller.crds.yaml) | 783.1 KiB | `other` |
+| [tofu-controller.deployment.yaml](https://github.com/weaveworks/tf-controller/releases/download/v0.16.6/tofu-controller.deployment.yaml) | 2.1 KiB | `other` |
+| [tofu-controller.packages.yaml](https://github.com/weaveworks/tf-controller/releases/download/v0.16.6/tofu-controller.packages.yaml) | 226 B | `other` |
+| [tofu-controller.rbac.yaml](https://github.com/weaveworks/tf-controller/releases/download/v0.16.6/tofu-controller.rbac.yaml) | 3.2 KiB | `other` |
+| [tofu-controller_0.16.6_checksums.txt](https://github.com/weaveworks/tf-controller/releases/download/v0.16.6/tofu-controller_0.16.6_checksums.txt) | 1.1 KiB | `other` |
+| [tofu-controller_0.16.6_checksums.txt.sigstore.json](https://github.com/weaveworks/tf-controller/releases/download/v0.16.6/tofu-controller_0.16.6_checksums.txt.sigstore.json) | 10.1 KiB | `other` |
+| [tofu-controller_0.16.6_sbom.spdx.json](https://github.com/weaveworks/tf-controller/releases/download/v0.16.6/tofu-controller_0.16.6_sbom.spdx.json) | 1.0 MiB | `other` |
+| [tofu-controller_0.16.6_source_code.tar.gz](https://github.com/weaveworks/tf-controller/releases/download/v0.16.6/tofu-controller_0.16.6_source_code.tar.gz) | 1.7 MiB | `native/unknown` |
 
 ## Improve this data
 
@@ -92,4 +92,4 @@ Install metadata for tf-controller lives in the [x-cmd/install](https://github.c
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261026.yml` · 2026-10-26T04:31:30Z._
+_Snapshot: `data/card/261027.yml` · 2026-10-27T04:50:09Z._

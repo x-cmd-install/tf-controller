@@ -14,15 +14,15 @@ x install tf-controller
 
 ## Code insight
 
-Total: **66,182** lines of code across **315** files in the top 5 languages.
+Total: **100,167** lines of code across **398** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Go | 38,277 | 2,518 | 5,762 | 231 |
-| Yaml | 26,733 | 133 | 132 | 77 |
+| Yaml | 53,652 | 159 | 373 | 124 |
+| Go | 45,338 | 3,583 | 6,816 | 267 |
 | Sh | 340 | 91 | 105 | 5 |
-| Protobuf | 276 | 0 | 70 | 1 |
-| Makefile | 233 | 33 | 58 | 1 |
+| Protobuf | 276 | 2 | 67 | 1 |
+| Makefile | 238 | 33 | 59 | 1 |
 
 ## OpenSSF Scorecard
 
@@ -42,7 +42,7 @@ Lowest-scoring checks:
 ## Release
 
 - **Latest**: `v0.16.6` (2026-10-26)
-- **Last commit**: 2026-10-26
+- **Last commit**: 2026-10-27
 - **Assets in release**: 14
 
 ## Popularity
@@ -51,18 +51,18 @@ Lowest-scoring checks:
 
 ## Totals (cumulative)
 
-- **Releases**: 112 · **Merged PRs**: 692 · **Open PRs**: 31 · **Closed issues**: 591 · **Open issues**: 129 · **Commits**: 2088
+- **Releases**: 112 · **Merged PRs**: 697 · **Open PRs**: 27 · **Closed issues**: 591 · **Open issues**: 129 · **Commits**: 2093
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-27 | 1 | 0 | 0 | 0 | 0 | 0 |
-| last60d | 2026-08-28 | 1 | 0 | 0 | 0 | 0 | 0 |
-| 90d | 2026-07-29 | 2 | 0 | 0 | 0 | 0 | 0 |
-| last180d | 2026-04-30 | 4 | 0 | 0 | 0 | 0 | 0 |
-| 360d | 2025-11-01 | 10 | 0 | 0 | 0 | 0 | 0 |
-| last720d | 2024-11-06 | 11 | 0 | 0 | 0 | 0 | 0 |
+| 30d | 2026-09-28 | 1 | 0 | 0 | 0 | 0 | 0 |
+| last60d | 2026-08-29 | 1 | 0 | 0 | 0 | 0 | 0 |
+| 90d | 2026-07-30 | 2 | 0 | 0 | 0 | 0 | 0 |
+| last180d | 2026-05-01 | 4 | 0 | 0 | 0 | 0 | 0 |
+| 360d | 2025-11-02 | 10 | 0 | 0 | 0 | 0 | 0 |
+| last720d | 2024-11-07 | 11 | 0 | 0 | 0 | 0 | 0 |
 
 ## Release assets
 
@@ -92,4 +92,4 @@ Install metadata for tf-controller lives in the [x-cmd/install](https://github.c
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261027.yml` · 2026-10-27T04:50:09Z._
+_Snapshot: `data/card/261028.yml` · 2026-10-28T05:24:44Z._

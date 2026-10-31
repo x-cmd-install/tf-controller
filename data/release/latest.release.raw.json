@@ -103,7 +103,7 @@
       "state": "uploaded",
       "size": 13715571,
       "digest": "sha256:af1e85d66168c1b06f28e8be258839ee195b2127ff0db65bb83664122a2f92b1",
-      "download_count": 42,
+      "download_count": 44,
       "created_at": "2026-10-26T20:26:15Z",
       "updated_at": "2026-10-26T20:26:16Z",
       "browser_download_url": "https://github.com/flux-iac/tofu-controller/releases/download/v0.16.6/tfctl_Darwin_arm64.tar.gz"
@@ -139,7 +139,7 @@
       "state": "uploaded",
       "size": 14880781,
       "digest": "sha256:4c0897e1cc87e37a27d704196b6f0b8f4aafa0063bd8056a16afb99f3405ed04",
-      "download_count": 56,
+      "download_count": 65,
       "created_at": "2026-10-26T20:26:15Z",
       "updated_at": "2026-10-26T20:26:16Z",
       "browser_download_url": "https://github.com/flux-iac/tofu-controller/releases/download/v0.16.6/tfctl_Linux_amd64.tar.gz"
@@ -283,7 +283,7 @@
       "state": "uploaded",
       "size": 801926,
       "digest": "sha256:2543706e66951f339f3a5d28f90919bcddee1e9d1b717d5dec3c825683314da8",
-      "download_count": 5,
+      "download_count": 6,
       "created_at": "2026-10-26T20:26:19Z",
       "updated_at": "2026-10-26T20:26:19Z",
       "browser_download_url": "https://github.com/flux-iac/tofu-controller/releases/download/v0.16.6/tofu-controller.crds.yaml"
@@ -319,7 +319,7 @@
       "state": "uploaded",
       "size": 2119,
       "digest": "sha256:97d539064f3246e5e1f7b210c4abcfcb1b95b842271927a461774a90e47f1789",
-      "download_count": 2,
+      "download_count": 6,
       "created_at": "2026-10-26T20:26:19Z",
       "updated_at": "2026-10-26T20:26:19Z",
       "browser_download_url": "https://github.com/flux-iac/tofu-controller/releases/download/v0.16.6/tofu-controller.deployment.yaml"
@@ -391,7 +391,7 @@
       "state": "uploaded",
       "size": 3252,
       "digest": "sha256:9ecbc3f5094c7b9505c808536a0a9d51d3a117f7bf7ccd270b8d1c31607e99a2",
-      "download_count": 2,
+      "download_count": 3,
       "created_at": "2026-10-26T20:26:18Z",
       "updated_at": "2026-10-26T20:26:19Z",
       "browser_download_url": "https://github.com/flux-iac/tofu-controller/releases/download/v0.16.6/tofu-controller.rbac.yaml"
@@ -427,7 +427,7 @@
       "state": "uploaded",
       "size": 1138,
       "digest": "sha256:cce01d6edb9bdbe762ac99e768fffe442aa7ed363ed3c17e9e47e101214bd850",
-      "download_count": 25,
+      "download_count": 28,
       "created_at": "2026-10-26T20:26:18Z",
       "updated_at": "2026-10-26T20:26:18Z",
       "browser_download_url": "https://github.com/flux-iac/tofu-controller/releases/download/v0.16.6/tofu-controller_0.16.6_checksums.txt"
@@ -463,7 +463,7 @@
       "state": "uploaded",
       "size": 10355,
       "digest": "sha256:a83b533955c33343c755c69a5fd8107e1a0baa7eb1b5595c9990499acdfc5424",
-      "download_count": 25,
+      "download_count": 28,
       "created_at": "2026-10-26T20:26:18Z",
       "updated_at": "2026-10-26T20:26:18Z",
       "browser_download_url": "https://github.com/flux-iac/tofu-controller/releases/download/v0.16.6/tofu-controller_0.16.6_checksums.txt.sigstore.json"

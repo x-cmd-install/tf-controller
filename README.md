@@ -42,27 +42,27 @@ Lowest-scoring checks:
 ## Release
 
 - **Latest**: `v0.16.6` (2026-10-26)
-- **Last commit**: 2026-10-28
+- **Last commit**: 2026-11-10
 - **Assets in release**: 14
 
 ## Popularity
 
-- **Stars**: 1,723 · **Forks**: 201 · **Open issues**: 722 · **Contributors**: 83
+- **Stars**: 1,723 · **Forks**: 202 · **Open issues**: 724 · **Contributors**: 83
 
 ## Totals (cumulative)
 
-- **Releases**: 112 · **Merged PRs**: 698 · **Open PRs**: 28 · **Closed issues**: 591 · **Open issues**: 131 · **Commits**: 2094
+- **Releases**: 112 · **Merged PRs**: 699 · **Open PRs**: 29 · **Closed issues**: 592 · **Open issues**: 132 · **Commits**: 2095
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-11 | 1 | 0 | 0 | 0 | 0 | 0 |
-| last60d | 2026-09-11 | 1 | 0 | 0 | 0 | 0 | 0 |
-| 90d | 2026-08-12 | 1 | 0 | 0 | 0 | 0 | 0 |
-| last180d | 2026-05-14 | 3 | 0 | 0 | 0 | 0 | 0 |
-| 360d | 2025-11-15 | 10 | 0 | 0 | 0 | 0 | 0 |
-| last720d | 2024-11-20 | 11 | 0 | 0 | 0 | 0 | 0 |
+| 30d | 2026-10-12 | 1 | 0 | 0 | 0 | 0 | 0 |
+| last60d | 2026-09-12 | 1 | 0 | 0 | 0 | 0 | 0 |
+| 90d | 2026-08-13 | 1 | 0 | 0 | 0 | 0 | 0 |
+| last180d | 2026-05-15 | 3 | 0 | 0 | 0 | 0 | 0 |
+| 360d | 2025-11-16 | 10 | 0 | 0 | 0 | 0 | 0 |
+| last720d | 2024-11-21 | 11 | 0 | 0 | 0 | 0 | 0 |
 
 ## Release assets
 
@@ -92,4 +92,4 @@ Install metadata for tf-controller lives in the [x-cmd/install](https://github.c
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261110.yml` · 2026-11-10T07:05:02Z._
+_Snapshot: `data/card/261111.yml` · 2026-11-11T05:56:22Z._

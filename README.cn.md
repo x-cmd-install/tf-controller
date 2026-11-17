@@ -41,47 +41,47 @@ x install tf-controller
 
 ## 发布
 
-- **最新版本**: `v0.16.6` (2026-10-26)
-- **最近提交**: 2026-11-13
+- **最新版本**: `v0.17.0` (2026-11-16)
+- **最近提交**: 2026-11-16
 - **Release 含资产**: 14 个
 
 ## 流行度
 
-- **Star**: 1,724 · **Fork**: 203 · **开放 issue**: 727 · **贡献者**: 84
+- **Star**: 1,724 · **Fork**: 204 · **开放 issue**: 727 · **贡献者**: 84
 
 ## 累计统计
 
-- **发布数**: 112 · **已合并 PR**: 707 · **开放 PR**: 28 · **已关闭 issue**: 594 · **开放 issue**: 133 · **提交数**: 2103
+- **发布数**: 113 · **已合并 PR**: 708 · **开放 PR**: 27 · **已关闭 issue**: 594 · **开放 issue**: 133 · **提交数**: 2104
 
 ## 最近活动
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-17 | 1 | 0 | 0 | 0 | 0 | 0 |
-| last60d | 2026-09-17 | 1 | 0 | 0 | 0 | 0 | 0 |
-| 90d | 2026-08-18 | 1 | 0 | 0 | 0 | 0 | 0 |
-| last180d | 2026-05-20 | 3 | 0 | 0 | 0 | 0 | 0 |
-| 360d | 2025-11-21 | 10 | 0 | 0 | 0 | 0 | 0 |
-| last720d | 2024-11-26 | 11 | 0 | 0 | 0 | 0 | 0 |
+| 30d | 2026-10-18 | 2 | 0 | 0 | 0 | 0 | 0 |
+| last60d | 2026-09-18 | 2 | 0 | 0 | 0 | 0 | 0 |
+| 90d | 2026-08-19 | 2 | 0 | 0 | 0 | 0 | 0 |
+| last180d | 2026-05-21 | 4 | 0 | 0 | 0 | 0 | 0 |
+| 360d | 2025-11-22 | 11 | 0 | 0 | 0 | 0 | 0 |
+| last720d | 2024-11-27 | 12 | 0 | 0 | 0 | 0 | 0 |
 
 ## Release 资产
 
 | 资产 | 大小 | 目标平台 |
 |------|-----:|----------|
-| [tfctl_Darwin_amd64.tar.gz](https://github.com/weaveworks/tf-controller/releases/download/v0.16.6/tfctl_Darwin_amd64.tar.gz) | 14.4 MiB | `native/darwin/x64` |
-| [tfctl_Darwin_arm64.tar.gz](https://github.com/weaveworks/tf-controller/releases/download/v0.16.6/tfctl_Darwin_arm64.tar.gz) | 13.1 MiB | `native/darwin/arm64` |
-| [tfctl_Linux_amd64.tar.gz](https://github.com/weaveworks/tf-controller/releases/download/v0.16.6/tfctl_Linux_amd64.tar.gz) | 14.2 MiB | `native/linux/x64` |
-| [tfctl_Linux_arm64.tar.gz](https://github.com/weaveworks/tf-controller/releases/download/v0.16.6/tfctl_Linux_arm64.tar.gz) | 12.5 MiB | `native/linux/arm64` |
-| [tfctl_Linux_armv6.tar.gz](https://github.com/weaveworks/tf-controller/releases/download/v0.16.6/tfctl_Linux_armv6.tar.gz) | 13.4 MiB | `native/linux/arm` |
-| [tfctl_Linux_armv7.tar.gz](https://github.com/weaveworks/tf-controller/releases/download/v0.16.6/tfctl_Linux_armv7.tar.gz) | 13.4 MiB | `native/linux/arm` |
-| [tofu-controller.crds.yaml](https://github.com/weaveworks/tf-controller/releases/download/v0.16.6/tofu-controller.crds.yaml) | 783.1 KiB | `other` |
-| [tofu-controller.deployment.yaml](https://github.com/weaveworks/tf-controller/releases/download/v0.16.6/tofu-controller.deployment.yaml) | 2.1 KiB | `other` |
-| [tofu-controller.packages.yaml](https://github.com/weaveworks/tf-controller/releases/download/v0.16.6/tofu-controller.packages.yaml) | 226 B | `other` |
-| [tofu-controller.rbac.yaml](https://github.com/weaveworks/tf-controller/releases/download/v0.16.6/tofu-controller.rbac.yaml) | 3.2 KiB | `other` |
-| [tofu-controller_0.16.6_checksums.txt](https://github.com/weaveworks/tf-controller/releases/download/v0.16.6/tofu-controller_0.16.6_checksums.txt) | 1.1 KiB | `other` |
-| [tofu-controller_0.16.6_checksums.txt.sigstore.json](https://github.com/weaveworks/tf-controller/releases/download/v0.16.6/tofu-controller_0.16.6_checksums.txt.sigstore.json) | 10.1 KiB | `other` |
-| [tofu-controller_0.16.6_sbom.spdx.json](https://github.com/weaveworks/tf-controller/releases/download/v0.16.6/tofu-controller_0.16.6_sbom.spdx.json) | 1.0 MiB | `other` |
-| [tofu-controller_0.16.6_source_code.tar.gz](https://github.com/weaveworks/tf-controller/releases/download/v0.16.6/tofu-controller_0.16.6_source_code.tar.gz) | 1.7 MiB | `native/unknown` |
+| [tfctl_Darwin_amd64.tar.gz](https://github.com/weaveworks/tf-controller/releases/download/v0.17.0/tfctl_Darwin_amd64.tar.gz) | 14.4 MiB | `native/darwin/x64` |
+| [tfctl_Darwin_arm64.tar.gz](https://github.com/weaveworks/tf-controller/releases/download/v0.17.0/tfctl_Darwin_arm64.tar.gz) | 13.1 MiB | `native/darwin/arm64` |
+| [tfctl_Linux_amd64.tar.gz](https://github.com/weaveworks/tf-controller/releases/download/v0.17.0/tfctl_Linux_amd64.tar.gz) | 14.2 MiB | `native/linux/x64` |
+| [tfctl_Linux_arm64.tar.gz](https://github.com/weaveworks/tf-controller/releases/download/v0.17.0/tfctl_Linux_arm64.tar.gz) | 12.5 MiB | `native/linux/arm64` |
+| [tfctl_Linux_armv6.tar.gz](https://github.com/weaveworks/tf-controller/releases/download/v0.17.0/tfctl_Linux_armv6.tar.gz) | 13.4 MiB | `native/linux/arm` |
+| [tfctl_Linux_armv7.tar.gz](https://github.com/weaveworks/tf-controller/releases/download/v0.17.0/tfctl_Linux_armv7.tar.gz) | 13.4 MiB | `native/linux/arm` |
+| [tofu-controller.crds.yaml](https://github.com/weaveworks/tf-controller/releases/download/v0.17.0/tofu-controller.crds.yaml) | 416.1 KiB | `other` |
+| [tofu-controller.deployment.yaml](https://github.com/weaveworks/tf-controller/releases/download/v0.17.0/tofu-controller.deployment.yaml) | 2.1 KiB | `other` |
+| [tofu-controller.packages.yaml](https://github.com/weaveworks/tf-controller/releases/download/v0.17.0/tofu-controller.packages.yaml) | 226 B | `other` |
+| [tofu-controller.rbac.yaml](https://github.com/weaveworks/tf-controller/releases/download/v0.17.0/tofu-controller.rbac.yaml) | 3.2 KiB | `other` |
+| [tofu-controller_0.17.0_checksums.txt](https://github.com/weaveworks/tf-controller/releases/download/v0.17.0/tofu-controller_0.17.0_checksums.txt) | 1.1 KiB | `other` |
+| [tofu-controller_0.17.0_checksums.txt.sigstore.json](https://github.com/weaveworks/tf-controller/releases/download/v0.17.0/tofu-controller_0.17.0_checksums.txt.sigstore.json) | 10.1 KiB | `other` |
+| [tofu-controller_0.17.0_sbom.spdx.json](https://github.com/weaveworks/tf-controller/releases/download/v0.17.0/tofu-controller_0.17.0_sbom.spdx.json) | 1.1 MiB | `other` |
+| [tofu-controller_0.17.0_source_code.tar.gz](https://github.com/weaveworks/tf-controller/releases/download/v0.17.0/tofu-controller_0.17.0_source_code.tar.gz) | 1.7 MiB | `native/unknown` |
 
 ## 改进这些数据
 
@@ -92,4 +92,4 @@ tf-controller 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/ins
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/261116.yml` · 2026-11-16T06:12:58Z._
+_数据快照: `data/card/261117.yml` · 2026-11-17T07:45:51Z._

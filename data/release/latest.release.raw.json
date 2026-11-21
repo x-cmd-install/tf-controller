@@ -103,7 +103,7 @@
       "state": "uploaded",
       "size": 13724334,
       "digest": "sha256:0bfaed3c82e2c87e1bb6b9d311dd47b6c418bd6ce597eb2a583bceef683781aa",
-      "download_count": 38,
+      "download_count": 43,
       "created_at": "2026-11-16T10:00:08Z",
       "updated_at": "2026-11-16T10:00:09Z",
       "browser_download_url": "https://github.com/flux-iac/tofu-controller/releases/download/v0.17.0/tfctl_Darwin_arm64.tar.gz"
@@ -139,7 +139,7 @@
       "state": "uploaded",
       "size": 14893086,
       "digest": "sha256:3cc803e62607de70565d1cd79e81254bfdf7d0f9a2594b86271799ffb72dc1c2",
-      "download_count": 66,
+      "download_count": 79,
       "created_at": "2026-11-16T10:00:07Z",
       "updated_at": "2026-11-16T10:00:08Z",
       "browser_download_url": "https://github.com/flux-iac/tofu-controller/releases/download/v0.17.0/tfctl_Linux_amd64.tar.gz"
@@ -175,7 +175,7 @@
       "state": "uploaded",
       "size": 13144073,
       "digest": "sha256:52030f58c0c051c388b8da3c4ba6d890a25bc6df9a9fe980203bcb9b09d58055",
-      "download_count": 7,
+      "download_count": 8,
       "created_at": "2026-11-16T10:00:08Z",
       "updated_at": "2026-11-16T10:00:09Z",
       "browser_download_url": "https://github.com/flux-iac/tofu-controller/releases/download/v0.17.0/tfctl_Linux_arm64.tar.gz"
@@ -211,7 +211,7 @@
       "state": "uploaded",
       "size": 14079517,
       "digest": "sha256:40b80efb9ebebb1b70d9884cb35c9cbb45f75ce991ebfffa61a243730d94f8a6",
-      "download_count": 1,
+      "download_count": 2,
       "created_at": "2026-11-16T10:00:07Z",
       "updated_at": "2026-11-16T10:00:08Z",
       "browser_download_url": "https://github.com/flux-iac/tofu-controller/releases/download/v0.17.0/tfctl_Linux_armv6.tar.gz"
@@ -247,7 +247,7 @@
       "state": "uploaded",
       "size": 14066335,
       "digest": "sha256:4b8508762ee2872cafe896b9a7a7f4ff89540d7e7fcb51339c526bc780146d1e",
-      "download_count": 1,
+      "download_count": 2,
       "created_at": "2026-11-16T10:00:07Z",
       "updated_at": "2026-11-16T10:00:07Z",
       "browser_download_url": "https://github.com/flux-iac/tofu-controller/releases/download/v0.17.0/tfctl_Linux_armv7.tar.gz"
@@ -427,7 +427,7 @@
       "state": "uploaded",
       "size": 1138,
       "digest": "sha256:709c055ca4b0b468845988083170e10785f724c8959660ba4b4dcde50983a932",
-      "download_count": 12,
+      "download_count": 16,
       "created_at": "2026-11-16T10:00:09Z",
       "updated_at": "2026-11-16T10:00:10Z",
       "browser_download_url": "https://github.com/flux-iac/tofu-controller/releases/download/v0.17.0/tofu-controller_0.17.0_checksums.txt"
@@ -463,7 +463,7 @@
       "state": "uploaded",
       "size": 10355,
       "digest": "sha256:1d0e4eb5934ef1d28a40734ad44555ed234f7d65f54cbf2e4b75fda2c14c0146",
-      "download_count": 14,
+      "download_count": 17,
       "created_at": "2026-11-16T10:00:09Z",
       "updated_at": "2026-11-16T10:00:10Z",
       "browser_download_url": "https://github.com/flux-iac/tofu-controller/releases/download/v0.17.0/tofu-controller_0.17.0_checksums.txt.sigstore.json"
@@ -546,14 +546,14 @@
   "body": "## Changelog\r\n\r\n[v0.17.0 changelog](https://github.com/flux-iac/tofu-controller/blob/v0.17.0/CHANGELOG.md)\r\n\r\n## Container images\r\n\r\n- `ghcr.io/flux-iac/tofu-controller:v0.17.0`\r\n- `ghcr.io/flux-iac/tf-runner:v0.17.0`\r\n- `ghcr.io/flux-iac/tf-runner:v0.17.0-base`\r\n\r\nSupported architectures: `linux/amd64`, `linux/arm64` and `linux/arm/v7`.\r\n\r\n",
   "reactions": {
     "url": "https://api.github.com/repos/flux-iac/tofu-controller/releases/446859321/reactions",
-    "total_count": 1,
+    "total_count": 2,
     "+1": 0,
     "-1": 0,
     "laugh": 0,
     "hooray": 0,
     "confused": 0,
     "heart": 0,
-    "rocket": 1,
+    "rocket": 2,
     "eyes": 0
   }
 }
